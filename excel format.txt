@@ -1,7 +1,7 @@
 Good looking excel themes that I think.
 
 
-
+picuter at good looking theme 1
 table 1:
   table head: background color(背景颜色):rgb(0,51,102) 
               font-family(字体):Microsoft Yahei
@@ -19,4 +19,4 @@ table 1:
                   background color(背景颜色):rgb(245,248,252) 
                 even-rows:
                   background color(背景颜色):rgb(225,232,240)
-  table footer:if have,just like head
+  table footer:if have,just like table head
