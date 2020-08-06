@@ -15,7 +15,7 @@ table 1:
                 border(边线):None
                 font-size(字体大小):normal
                 
-                singular-rows:
+                odd-rows:
                   background color(背景颜色):rgb(245,248,252) 
                 even-rows:
                   background color(背景颜色):rgb(225,232,240)
