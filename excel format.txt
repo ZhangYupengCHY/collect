@@ -1,0 +1,22 @@
+Good looking excel themes that I think.
+
+
+
+table 1:
+  table head: background color(背景颜色):rgb(0,51,102) 
+              font-family(字体):Microsoft Yahei
+              font-color(文字颜色):white
+              font-Bold(是否加粗):True (加粗)
+              border(边线):None
+              font-size(字体大小):normal
+  table value:  font-family(字体):Microsoft Yahei
+                font-color(文字颜色):black
+                font-Bold(是否加粗):False (加粗)
+                border(边线):None
+                font-size(字体大小):normal
+                
+                singular-rows:
+                  background color(背景颜色):rgb(245,248,252) 
+                even-rows:
+                  background color(背景颜色):rgb(225,232,240)
+  table footer:if have,just like head
